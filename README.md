@@ -125,11 +125,3 @@ Sınıf ortalaması: 75,92
 | | `Ortalama()` | Notların aritmetik ortalamasını döndürür; hiç not yoksa `0` |
 
 Bu projede kullanılan başlıca kavramlar: sınıf ve özellikler (property), `List<T>`, `switch` / `while` / `foreach` yapıları, `int.TryParse` ile girdi doğrulama, `System.Text.Json` ile serileştirme, dosya işlemleri (`File` sınıfı) ve string interpolation.
-
-## Geliştirme Fikirleri
-
-- [ ] Öğrenci silme ve not güncelleme
-- [ ] Ada göre arama ve ortalamaya göre sıralama
-- [ ] Geçti/kaldı durumu veya harf notu hesaplama
-- [ ] Ad/soyad doğrulaması ve bozuk JSON dosyası için hata yönetimi (`try-catch`)
-- [ ] Okunaklı JSON çıktısı (`WriteIndented`) ve Türkçe karakterlerin dosyada düzgün görünmesi
